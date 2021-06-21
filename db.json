@@ -1,3 +1,22 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "text": "Wash dishes",
+      "day": "May 7, 2:30 pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Write English paper",
+      "day": "June 23, 12 am",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Walk dog",
+      "day": "March 12, 2012",
+      "reminder": false,
+      "id": 3
+    }
+  ]
 }
